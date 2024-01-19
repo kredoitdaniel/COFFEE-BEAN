@@ -1,0 +1,12 @@
+coffee bean section
+
+1. header
+2. banner
+3. advertisement
+4. merchandise / products
+5. VIP / discount area
+6. sale section products
+7. advertisement
+8. reservation form 
+9. footer 1 / blog, address, info
+10. footer 2 / link, sns
